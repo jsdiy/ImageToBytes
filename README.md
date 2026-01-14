@@ -1,0 +1,2 @@
+# ImageToBytes
+画像ファイルをRGB565形式などのbyte配列として書き出す
