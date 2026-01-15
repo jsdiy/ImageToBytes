@@ -1,7 +1,7 @@
 # ImageToBytes
 画像ファイルを電子工作でよく使われるLCDモジュール向けのフォーマットに変換するツールです。
 
-![画面参考](https://github.com/jsdiy/WpCalendar/blob/main/sample/usage.png)
+![画面参考](https://github.com/jsdiy/ImageToBytes/blob/main/sample/usage.png)
 
 # 概要
 - .jpg/.png/.bmpをRGB:565やRGB:444形式に変換します。BGR順へも変換できます。
@@ -16,7 +16,7 @@
 
 # 動作環境
 WindowsPC上で 実行ファイルと .NET Runtimeがあれば動作します。  
-※実行には```.NET Runtime```が必要 → [Microsoft .NETのダウンロードページ](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0)
+※実行には .NET Runtimeが必要 → [Microsoft .NETのダウンロードページ](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0)
 
 Releaseフォルダ内の実行ファイルは下記プロファイルで作成しています。
 - net10.0-windows, win-x64, フレームワーク依存, 単一ファイルの作成
